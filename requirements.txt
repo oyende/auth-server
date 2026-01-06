@@ -1,2 +1,5 @@
 fastapi
-uvicorn
+uvicorn[standard]
+bcrypt
+PyJWT
+pydantic
